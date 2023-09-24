@@ -20,7 +20,92 @@ _TUYA_KNOWN_VENDORS = {
         "brand": "Ledvance",
         "client_id": "fx3fvkvusmw45d7jn8xh",
         "secret": "A_armptsqyfpxa4ftvtc739ardncett3uy_cgqx3ku34mh5qdesd7fcaru3gx7tyurr",
-    }
+    },
+    "positivo": {
+        "brand": "Positivo",
+        "client_id": "qk4c93xsttfjsm4ktr94",
+        "secret": "A_9v5dh8yngmhtxdjen7t7qqx5ggmdf5su_w7vm9gr7meys387fpj7y7yrvx8w554cd",
+    },
+    "sylvania": {
+        "brand": "Sylvania",
+        "client_id": "creq75hn4vdg5qvrgryp",
+        "secret": "A_ag4xcmp9rjttkj9yf9e8c3wfxry7yr44_wparh3scdv8dc7rrnuegaf9mqmn4snpk",
+    },
+    "birdlover": {
+        "brand": "Birdlover",
+        "client_id": "gmusrthh3sygeyv3sr38",
+        "secret": "A_pku4cchspfmskfgtaacqcvkfdscx7u7t_x4y4ds9nysv4d3agjyqwmvnptwhgtcwu",
+    },
+    "gosund": {
+        "brand": "Gosund",
+        "client_id": "pwhnn4fa7ydkakf3nehn",
+        "secret": "A_wm8hvxahqhcvvnpqgurympm4ppfgxxnm_pqdyxyx3uhk337sxxumdgfry3awaxysm",
+    },
+    "brennenstuhl": {
+        "brand": "Brennenstuhl",
+        "client_id": "dh35afm9ha79sppyxgkf",
+        "secret": "A_9gyrek4h5ygwshsndqurwjkddtjpw9yr_aqy9p3e78xr5htpsn95fss5rvcdtaahd",
+    },
+    "nedis": {
+        "brand": "Nedis",
+        "client_id": "pettfwyepwpwwhxy57gp",
+        "secret": "A_73p8kvkhsted5fxvx8pfudk5hwtmnjr3_yptwxx4t9rkmcppyagwpd43y77tnpw8s",
+    },
+    "treatlife": {
+        "brand": "Treatlife",
+        "client_id": "8yncru89qa8495mdutya",
+        "secret": "A_37enmfsnr4r3w8j5cd3fxmhm97gaatxx_y4gn37gryf5ufqhqgh99r9wp3h44dp95",
+    },
+    "lsc": {
+        "brand": "LSC",
+        "client_id": "q594qaqdpy89gmvyndtp",
+        "secret": "A_yegjfwuukevd8qfxw3rjfr5sj43p5gpr_xh59e8qykn4sp7jyh7rwaq3ykfwf8e5n",
+    },
+    "overmax": {
+        "brand": "Overmax",
+        "client_id": "um7ysycqag83et8drf8n",
+        "secret": "A_jpjmj4vp5gvwmdpf8hk5yjkrj3teegve_kwqsmrup5qrx4rpgssrkt7dngq8c53q9",
+    },
+    "settiplus": {
+        "brand": "Setti+",
+        "client_id": "8fjupshhjwqq4auxtd4m",
+        "secret": "A_4eqrx7y3sygqv5eragnwxnetv3epsj4f_svhcum73wnvaehgv88wdj5dddfxrt48u",
+    },
+    "nous": {
+        "brand": "Nous",
+        "client_id": "dhs3xggvwehvc5tj9xqp",
+        "secret": "A_wwwrnvy7gayy9dvp5nuahyd5d3j4kyxp_7vgwxdy589jtwwee7rugayxrderkekww",
+    },
+    "woox": {
+        "brand": "Woox Home",
+        "client_id": "pyxevcmw83jg83qca9c7",
+        "secret": "A_e3g9q4enqeew9x7xgcqkn8jjcdgwf8py_h8wv7dea7u4hnfc8k8qagr897yuc79ar",
+    },
+    "maxcom": {
+        "brand": "Maxcom Home",
+        "client_id": "83f54m7c4wpmp48a377e",
+        "secret": "A_n33asm4fv3yud9pcjfuxcycspy7fhx3g_kvjavqmjyf3v5wk9s55fgeewgkgjnhc9",
+    },
+    "calex": {
+        "brand": "Calex Smart",
+        "client_id": "xh8txuxq9juy48e5q39w",
+        "secret": "A_u7mn44dkwx3qqe4kkakc4p933au5fnkr_g9egj8jjgup8ctpxjknye5ar4wxghesa",
+    },
+    "smartdgm": {
+        "brand": "SmartDGM",
+        "client_id": "ryvgvwmtydwvsh3hd7rr",
+        "secret": "A_gmjvan774aag5u8ksjtt8dvyas8pvg8j_g3xtrhk4rxpeqxuneqmrx54dqy4htda3",
+    },
+    "gridconnect": {
+        "brand": "GridConnect",
+        "client_id": "k584ttaqt7f4huakhtgp",
+        "secret": "A_yg7pds9ap4vd3vj8t8cjy5agvj4jygay_c5t98m3kp7atcnspggcqewp5cqhnfuum",
+    },
+    "spectrum": {
+        "brand": "Spectrum Smart",
+        "client_id": "t8aygqqdh8u7nd5j5kcf",
+        "secret": "A_avfpxsmwwt9txxg8eyd4pppfdqdyydqg_xsxdsvwgt7kdpe8xj38nvkxw4gaw4dkh",
+    },
 }
 
 _LOGGER = logging.getLogger(__name__)
